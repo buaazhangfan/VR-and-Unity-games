@@ -145,7 +145,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e4e18b34cbef4431d8b6ae0c6573f3f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialImpluse: {x: 4, y: 0, z: 4}
+  initialImpluse: {x: 8, y: 0, z: 4}
   rb: {fileID: 253022164}
 --- !u!54 &253022164
 Rigidbody:

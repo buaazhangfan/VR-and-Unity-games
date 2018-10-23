@@ -5,9 +5,9 @@
 [Bb]uilds/
 Assets/AssetStoreTools*
 
+# Mac generated files
 
 .DS_Store
-
 */.DS_Store
 
 # Visual Studio cache directory
